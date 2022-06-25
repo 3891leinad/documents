@@ -1,1 +1,16 @@
-Install React.
+1. React
+
+nvm --version
+0.39.1
+
+https://tecadmin.net/how-to-install-nvm-on-ubuntu-20-04/
+
+node --version
+v18.2.0
+
+https://tecadmin.net/install-nodejs-with-nvm/
+
+npm --version
+8.11.0
+
+https://dev.to/ms314006/how-to-install-npm-through-nvm-node-version-manager-5gif
